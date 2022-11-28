@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Chessti
+- 👀 I’m interested in arduino and raspberry PI
+- 🌱 I’m currently learning C++, Python, Arduino
